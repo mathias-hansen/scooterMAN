@@ -11,6 +11,11 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css' />
     <link href="css/min/styles.css" rel="stylesheet" />
 
+    <script src="clock-picker/jquery-2.1.1.min.js"></script>
+    <script src="clock-picker/jquery-clockpicker.js"></script>
+    <link href="clock-picker/jquery-clockpicker.min.css" rel="stylesheet" />
+    <link href="clock-picker/StyleSheet.css" rel="stylesheet" />
+
     <script src="bower_components/platform/platform.js"></script>
     <link rel="import" href="bower_components/google-map/google-map.html" />
     <link rel="import" href="bower_components/google-map/google-map-directions.html" />
